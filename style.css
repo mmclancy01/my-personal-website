@@ -27,7 +27,6 @@ display: flex;
   position: relative;
   bottom: 20px;
   }
-figcaption {
+p {
     color: antiquewhite;
-    text-align: center;
 }
